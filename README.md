@@ -3,7 +3,7 @@
 ### Run
 
 ```sh
-npx degit https://github.com/Jonster5/raxis-template-browser your-project-name
+npx degit https://github.com/Jonster5/raxis-template-vanilla your-project-name
 ```
 
 ### Then

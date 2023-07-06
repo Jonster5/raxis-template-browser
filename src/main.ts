@@ -8,5 +8,6 @@ const ecs = new ECS()
 	.insertPlugins(...defaultPlugins)
 	.insertResource(new CanvasSettings({ target: app, width: 2000 }))
 	.insertResource(new KeysToTrack([]));
+// Start after that stuff
 
 ecs.run();
